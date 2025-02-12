@@ -2,6 +2,9 @@
 
 A web application for visualizing and analyzing flight data from Potensic drones. This application allows users to upload their drone flight logs and view the flight path on an interactive map, complete with telemetry data.
 
+![Potensic Flight Log Viewer Interface](docs/screenshot.png)
+
+![Potensic Flight Log Viewer Map](docs/screenshot2.png)
 ## Features
 
 - Upload and process Potensic drone flight logs (ZIP files)
